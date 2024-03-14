@@ -32,6 +32,8 @@ Available commands at the moment :
 -pingsoff Disable bot's mentions.
 -pingson  Enable bot mentions (default).
 
+-cfg.ql Gets the link of our 'basics cvars' config file.
+
 -rank     Usage : !rank / !rank [@user] / !rank [ingame name]
   Fetch your rank from Quake Champions API, or rank for another user.
 
@@ -43,6 +45,7 @@ Available commands at the moment :
 
 -top10.qc Show top 10 players in QC rank.
 -top10.ql Show top 10 players in QL elo.
+-top10.cap Show top 10 players below the 1100 elo cap.
 -top5.qc  Show top 5 players in QC rank.
 -top5.ql  Show top 5 players in QL elo.
 ```
